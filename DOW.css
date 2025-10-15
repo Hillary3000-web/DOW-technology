@@ -408,6 +408,7 @@ body {
   display: flex;
   justify-content: centre;
   align-content: centre;
+  width: 100%;
 }
 
 .price {
