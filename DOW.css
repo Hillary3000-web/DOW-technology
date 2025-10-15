@@ -405,6 +405,9 @@ body {
   font-size: 1.8rem;
   margin-bottom: 1rem;
   color: var(--light);
+  display: flex;
+  justify-content: centre;
+  align-content: centre;
 }
 
 .price {
@@ -759,3 +762,4 @@ body {
     opacity: 0.3;
   }
 }
+
