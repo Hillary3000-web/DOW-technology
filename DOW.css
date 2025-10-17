@@ -406,6 +406,8 @@ body {
   font-size: 1.8rem;
   margin-bottom: 1rem;
   color: var(--light);
+  word-wrap: break-word;
+  text-align: center;
 }
 
 .price {
@@ -760,4 +762,5 @@ body {
     opacity: 0.3;
   }
 }
+
 
