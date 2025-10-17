@@ -403,7 +403,7 @@ body {
 }
 
 .pricing-card h3 {
-  font-size: 1.8rem;
+  font-size: 1rem;
   margin-bottom: 1rem;
   color: var(--light);
   word-wrap: break-word;
@@ -762,5 +762,6 @@ body {
     opacity: 0.3;
   }
 }
+
 
 
